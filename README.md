@@ -13,4 +13,11 @@ Kolmogorov Smirnov Distance
 Cramer von Mises Distance
 Kuiper Distance
 
+## Related Works
 The code has been converted to MATLAB from "twosamples" library of R (https://github.com/cdowd/twosamples).
+
+## License
+This framework is available under an MIT License.
+
+## Acknowledgments
+<p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre, AURA Innovation Centre and University of Hull for their support.</p>
