@@ -21,3 +21,6 @@ This framework is available under an MIT License.
 
 ## Acknowledgments
 <p align="justify">We  would  like  to  thank  EDFEnergy R&D UK Centre, AURA Innovation Centre and University of Hull for their support.</p>
+
+## Cite As
+Koorosh Aslansefat (2020). CDF-based Distance Measure Algorithms (https://www.github.com/koo-ec/CDF-based-Distance-Measure), GitHub. Retrieved April 29, 2020.
