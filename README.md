@@ -3,7 +3,7 @@
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Python Style Guide"></a>
 
 # ECDF-based Distance Measure
-A set of functions for well-known Cumulative Distribution Function (CDF)-based distance measure.
+A set of functions for well-known Empirical Cumulative Distribution Function (CDF)-based distance measure.
 
 Statistical/Probabilistic distance measure algorithms can be categorized into two main categories I) Cumulative Distribution Function (CDF)-based and Probability Density Function (PDF)-based. The following algorithms have been implemented:
 
