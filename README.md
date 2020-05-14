@@ -7,11 +7,12 @@ A set of functions for well-known Empirical Cumulative Distribution Function (CD
 
 Statistical/Probabilistic distance measure algorithms can be categorized into two main categories I) Cumulative Distribution Function (CDF)-based and Probability Density Function (PDF)-based. The following algorithms have been implemented:
 
-Wasserstein Distance
-Anderson-Darling Distance
-Kolmogorov Smirnov Distance
-Cramer von Mises Distance
-Kuiper Distance
+* Wasserstein Distance
+* Anderson-Darling Distance
+* Kolmogorov Smirnov Distance
+* Cramer von Mises Distance
+* Kuiper Distance
+* Wasserstein-Anderson-Darling Distance
 
 ## Related Works
 The code has been converted to MATLAB from "twosamples" library of R (https://github.com/cdowd/twosamples).
