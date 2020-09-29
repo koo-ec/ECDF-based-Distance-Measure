@@ -21,7 +21,7 @@ The code has been converted to MATLAB from "twosamples" library of R (https://gi
 This framework is available under an MIT License.
 
 ## Acknowledgments
-<p align="justify">We  would  like  to  thank  <a href = "https://www.edfenergy.com/about">EDF Energy R&D UK Centre</a> and <a href = "https://www.hull.ac.uk/">University of Hull</a> for their support.</p>
+<p align="justify">We  would  like  to  thank  <b><a href = "https://www.edfenergy.com/about">EDF Energy R&D UK Centre</a></b> and <b><a href = "https://www.hull.ac.uk/">University of Hull</a></b> for their support.</p>
 
 ## Cite As
 Koorosh Aslansefat (2020). ECDF-based Distance Measure Algorithms (https://www.github.com/koo-ec/CDF-based-Distance-Measure), GitHub. Retrieved April 29, 2020.
